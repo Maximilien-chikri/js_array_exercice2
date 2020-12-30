@@ -7,3 +7,4 @@ console.log(classe);
 // 3
 classe.push("max")
 console.log(classe);
+console.log(classe.join());
